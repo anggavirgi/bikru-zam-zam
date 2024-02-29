@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgCover {
+  background-image: url("/assets/img/cover.jpg");
+}
+
+.bgAgustus {
+  background-image: url("/assets/img/parallax1.jpg");
+}
+
+.bgUmroh {
+  background-image: url("/assets/img/parallax2.jpg");
+}
